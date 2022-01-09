@@ -10,7 +10,7 @@ You can design emails using sass and HTML with the help of this program.
 
 1. Firstly fork the repo
 2. Now clone it on your machine
-3. Now run [initializer.py][initializer.py] and select option 1
+3. Now run [initializer.py](initializer.py) and select option 1
 4. This will install all important component required for the application
 5. Now generate a component using option 2
 6. A component is basically a mail template. You may create as many components (templates) as you want.
