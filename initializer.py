@@ -8,6 +8,8 @@ print("1) Build application\n2) Create a new template\n3) Generate output\n")
 
 def buildApplication():
 
+    # Making folders and files
+
     os.makedirs("Emails")
     os.makedirs("templates")
     templatesFile = open("templates.txt", "w").close()
@@ -44,6 +46,8 @@ while True:
     
 </body>
 </html>"""
+
+        # Making file name appear in the boilerplate
         htmlBoilerPlate = htmlBoilerPlate.replace("Document", templateName)
 
         # Making directories and html, scss files
