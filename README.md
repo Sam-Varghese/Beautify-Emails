@@ -1,4 +1,4 @@
-<h1 align="center">Email Beautifier</h1>
+![Banner image](images/demoImages/banner.png)
 
 This is a program made in order to beautify mails using HTML, CSS/ Sass.
 
